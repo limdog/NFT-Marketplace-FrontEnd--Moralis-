@@ -1,5 +1,7 @@
 # NFT Marketplace Full-Stack/Front End Setup using Moralis
 
+Built using Patrick Collins' Blockchain, Solidity, and Full Stack Web3 Development with JavaScript Course.
+
 ## 1. Ensure have the Backend code open in a seperate code editor window (NFT Marketplace Backend)
 
 Can be found in my Github Repository.
